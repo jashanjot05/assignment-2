@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(72, 247, 165, 0.904);
+}
+nav{
+    width:90vw;
+    margin:20px auto;
+}
+img{
+    width:400px;
+}
+#portfolio,#about,#projects,#languages{
+    width:90vw;
+    background-color: white;
+    margin:20px auto;
+    padding: 20px;;
+}
